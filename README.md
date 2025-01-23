@@ -309,3 +309,14 @@ Symbols
 | :large_blue_circle: `:large_blue_circle:` | :large_blue_diamond: `:large_blue_diamond:` | :large_orange_diamond: `:large_orange_diamond:` |
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
+
+
+---
+
+
+  ## Репозиторий заимствован у пользователя [rxaviers](https://github.com/rxaviers)
+  
+  ## По [ссылке](https://gist.github.com/rxaviers/7360908)
+
+
+---
